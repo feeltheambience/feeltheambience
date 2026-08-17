@@ -29,7 +29,10 @@
 |---|---|
 | 🔒 **blackaccess** | Foreign-bank card issuance CRM · CRM выпуска карт иностранных банков |
 | 🔒 **connecthr** | AI-recruiter over hh.ru & SuperJob · AI-рекрутинг поверх hh.ru и SuperJob |
+| 🔒 **HR-pult** | HR "mission control": career tracks & interview tools · «Пульт управления» для HR: карьерные треки и интервью |
 | 🔒 **cleancontrol** | Cleaning operations management system · Система управления клинингом |
+| 🔒 **kennel-club** | Dog club & shows management · Учёт клуба собаководства и выставок |
+| 🔒 **confetto-kp** | Commercial-proposal builder with branded PDF · Конструктор КП с брендированным PDF |
 | 🔒 **assessment-methodology** | HR assessment methodology & builder · Методология и конструктор оценки персонала |
 | 🔒 **manuals-cms** | PDF-to-book manuals library · Мультибук-библиотека руководств из PDF |
 
@@ -43,6 +46,7 @@
 | 🔒 **clarity-diary** | Interactive self-discovery diary · Интерактивный дневник самопознания |
 | 🔒 **photodrop** | Photo delivery with face recognition · Доставка фото с распознаванием лиц |
 | 🔒 **phauf** | Air-filter calculator & 3D configurator · Расчёт воздушных фильтров и 3D-конфигуратор |
+| 🔒 **photo-editor** | Mobile ComfyUI photo editor: try-on, face swap · Мобильный фоторедактор на ComfyUI: примерка, смена лица |
 
 ## 👁 Computer Vision & Data · Компьютерное зрение и данные
 
