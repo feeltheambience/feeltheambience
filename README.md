@@ -1,68 +1,77 @@
-<h1 align="center">👋 Hi / Привет</h1>
+# feeltheambience
 
-<p align="center">
-  <b>Full-stack developer</b> — AI, Telegram bots, web apps, computer vision & hardware.<br>
-  <b>Фулстек-разработчик</b> — ИИ, Telegram-боты, веб-приложения, компьютерное зрение и железо.
-</p>
+Делаю Telegram-ботов, веб-сервисы, CRM под заказ и всякое железо — от Flipper Zero до своей Android-камеры.
+Ниже всё, что лежит в этом аккаунте. Публичное кликабельно, 🔒 — заказные и приватные проекты (описание есть, код закрыт).
 
-<p align="center">
-  🐍 Python · FastAPI &nbsp;|&nbsp; ⚡ JS / TypeScript &nbsp;|&nbsp; 🤖 AI / LLM &nbsp;|&nbsp; 👁 Computer Vision &nbsp;|&nbsp; 🔧 Embedded / Flipper Zero
-</p>
+*Telegram bots, web services, custom CRMs and some hardware. Public repos are linked; 🔒 marks private / client work.*
 
----
+## Telegram-боты и Mini Apps · Bots & Mini Apps
 
-> Public repos are linked; 🔒 marks private / commercial work.
-> Публичные репозитории кликабельны; 🔒 — приватные / коммерческие проекты.
-
-## 🤖 Telegram Bots & Mini Apps · Боты и мини-приложения
-
-| Project | Description · Описание |
+| | |
 |---|---|
-| [**motomsk-dtp**](https://github.com/feeltheambience/motomsk-dtp) | Motorcycle crash statistics Mini App · Mini App статистики мотоаварий |
-| [**runecast**](https://github.com/feeltheambience/runecast) | Rune & Tarot spread Mini App · Mini App раскладов рун и Таро |
-| [**disc-test**](https://github.com/feeltheambience/disc-test) | DISC personality testing Mini App · Mini App DISC-тестирования |
-| 🔒 **taskbot** | Project-manager bot with kanban Mini App · Бот-менеджер проектов с канбан Mini App |
+| [motomsk-dtp](https://github.com/feeltheambience/motomsk-dtp) | Статистика мотоаварий Москвы, Mini App · Moscow motorcycle accident stats |
+| [runecast](https://github.com/feeltheambience/runecast) | Расклады рун и Таро · Rune & Tarot spreads |
+| [disc-test](https://github.com/feeltheambience/disc-test) | DISC-тестирование · DISC personality test |
+| 🔒 taskbot | Бот-менеджер проектов с канбаном · Project manager bot with kanban |
+| 🔒 pulsebot | Ежедневный опрос состояния сотрудников · Daily employee mood check |
 
-## 💼 Business · CRM · HR · Бизнес и HR
+## Бизнес, CRM, HR · Business & HR
 
-| Project | Description · Описание |
+| | |
 |---|---|
-| 🔒 **blackaccess** | Foreign-bank card issuance CRM · CRM выпуска карт иностранных банков |
-| 🔒 **connecthr** | AI-recruiter over hh.ru & SuperJob · AI-рекрутинг поверх hh.ru и SuperJob |
-| 🔒 **HR-pult** | HR "mission control": career tracks & interview tools · «Пульт управления» для HR: карьерные треки и интервью |
-| 🔒 **cleancontrol** | Cleaning operations management system · Система управления клинингом |
-| 🔒 **kennel-club** | Dog club & shows management · Учёт клуба собаководства и выставок |
-| 🔒 **confetto-kp** | Commercial-proposal builder with branded PDF · Конструктор КП с брендированным PDF |
-| 🔒 **assessment-methodology** | HR assessment methodology & builder · Методология и конструктор оценки персонала |
-| 🔒 **manuals-cms** | PDF-to-book manuals library · Мультибук-библиотека руководств из PDF |
+| 🔒 blackaccess | CRM выпуска карт иностранных банков, агентская сеть · Bank-card issuance CRM |
+| 🔒 black-access | Консьерж-клуб, Laravel + Vue · Private concierge club |
+| 🔒 black-access-app | Мобильное приложение клуба, Flutter · Club member app |
+| 🔒 connecthr | AI-рекрутер поверх hh.ru и SuperJob · AI recruiter |
+| 🔒 HR-pult | Пульт управления полетами в HR, hrpult.ru · HR mission control |
+| 🔒 survey-service | Опросы и оценка по профилю должности · Surveys & job-profile assessment |
+| 🔒 sales-call-standards | Стандарты телефонных продаж, тренажёр · Phone sales standards board |
+| 🔒 assessment-methodology | Методология оценки персонала · Staff assessment methodology |
+| 🔒 cleancontrol | Управление клининговой компанией · Cleaning company management |
+| [kennel-club](https://github.com/feeltheambience/kennel-club) | Учёт клуба собаководства и выставки · Dog club & shows |
+| 🔒 confetto-kp | Конструктор КП с PDF, Spring Boot · Quote builder |
+| 🔒 detaltorg | B2B-каталог электронных компонентов, Laravel · B2B components catalog |
+| 🔒 manuals-cms | Библиотека руководств из PDF · Manuals library from PDF |
 
-## 🌐 Web Apps & Dashboards · Веб-приложения и дашборды
+## Веб и сайты · Web
 
-| Project | Description · Описание |
+| | |
 |---|---|
-| [**moto-gear-dashboard**](https://github.com/feeltheambience/moto-gear-dashboard) | Motorcycle gear research dashboard · Дашборд-исследование мотоэкипировки |
-| [**wedding-invite**](https://github.com/feeltheambience/wedding-invite) | Wedding invitation landing · Свадебное приглашение-лендинг |
-| 🔒 **photospot** | Photo-locations map: sun compass, golden hour · Карта фототочек: компас солнца, golden hour |
-| 🔒 **clarity-diary** | Interactive self-discovery diary · Интерактивный дневник самопознания |
-| 🔒 **photodrop** | Photo delivery with face recognition · Доставка фото с распознаванием лиц |
-| 🔒 **phauf** | Air-filter calculator & 3D configurator · Расчёт воздушных фильтров и 3D-конфигуратор |
-| 🔒 **photo-editor** | Mobile ComfyUI photo editor: try-on, face swap · Мобильный фоторедактор на ComfyUI: примерка, смена лица |
+| 🔒 photospot | Карта фототочек, живёт на locly.ru · Photo spots map |
+| 🔒 clarity-diary | Дневник самопознания, explc.ru · Self-reflection diary |
+| 🔒 myhoroai | Астросервис myhoro.ai: сайт, админка, бот · Astrology service |
+| 🔒 photodrop | Доставка фото клиентам с распознаванием лиц · Photo delivery with face grouping |
+| 🔒 photo-editor | Мобильная обёртка над ComfyUI · Phone UI over ComfyUI |
+| 🔒 phauf | Расчёт воздушных фильтров + 3D-конструктор · Air filter sizing & 3D configurator |
+| [moto-gear-dashboard](https://github.com/feeltheambience/moto-gear-dashboard) | Разбор мотоэкипировки по науке · Motorcycle gear research |
+| [wedding-invite](https://github.com/feeltheambience/wedding-invite) | Свадебное приглашение · Wedding invitation page |
+| 🔒 amalgama-site | Сайт HR-консалтинга amalgama.company · HR consulting website |
+| 🔒 amalgama-company-source | Зеркало прежней версии сайта · Mirror of the old site |
 
-## 👁 Computer Vision & Data · Компьютерное зрение и данные
+## Компьютерное зрение, данные, звук · CV, data & audio
 
-| Project | Description · Описание |
+| | |
 |---|---|
-| 🔒 **drone-arena** | Person detection from drone footage · Детекция людей на видео с дронов |
-| 🔒 **football-analytics** | Futsal video analytics · Аналитика мини-футбола по видео |
-| 🔒 **1c-config-diff** | 1C:Enterprise .cf config diff tool · Сравнение конфигураций 1С по .cf |
+| 🔒 drone-arena | Детекция людей на видео с дронов, YOLO · Person detection from drones |
+| 🔒 football-analytics | Аналитика мини-футбола по видео · Futsal video analytics |
+| 🔒 1c-config-diff | Сравнение конфигураций 1С по .cf · 1C config diff |
+| 🔒 mp-parser | Мониторинг цен на Ozon/Wildberries · Marketplace price monitoring |
+| 🔒 ozon-api-order | Работа с API Ozon · Ozon API research |
+| 🔒 jewelry-agent | AI-агент закупок винтажной ювелирки · AI buying agent |
+| 🔒 advoice | ИИ-диктор для рекламы, F5-TTS · Ad voice-over generator |
 
-## 🔧 Hardware · Flipper Zero · Железо
+## Android и железо · Android & hardware
 
-| Project | Description · Описание |
+| | |
 |---|---|
-| [**flipper-apps**](https://github.com/feeltheambience/flipper-apps) | T5577 RFID & Gen4 NFC writers · Запись T5577 RFID и Gen4 NFC |
-| [**flipper_soft**](https://github.com/feeltheambience/flipper_soft) | 17 custom FAP apps for Unleashed · 17 самописных FAP под Unleashed |
+| 🔒 naturalcam | Своя Android-камера без ИИ-обработки, Kotlin · Android camera app |
+| 🔒 l2tpvpn | L2TP/IPsec VPN-клиент для Android · VPN client |
+| [flipper-apps](https://github.com/feeltheambience/flipper-apps) | RFID/NFC-писалки для Flipper Zero · Flipper Zero RFID/NFC writers |
+| [flipper_soft](https://github.com/feeltheambience/flipper_soft) | 17 приложений для Flipper Zero · 17 Flipper Zero apps |
 
----
+## Служебное · Misc
 
-<p align="center"><sub>⭐ Built with Python, FastAPI, JS/TS, LLMs & a soldering iron · Собрано на Python, FastAPI, JS/TS, LLM и паяльнике</sub></p>
+| | |
+|---|---|
+| 🔒 derevnya-network | Карта домашней сети и миграция на MikroTik · Home LAN & MikroTik migration |
+| 🔒 getblackaccess-recon | Документация по проекту getblackaccess.com · Project docs |
